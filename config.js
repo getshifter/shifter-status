@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "System Status",
+  "title": "Shifter",
   "name": "shifter_status",
   "description": "Welcome to Shifter Status, a place for activity logs and system performance.",
   "defaultLocale": "en",
