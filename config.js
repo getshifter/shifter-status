@@ -13,5 +13,14 @@ module.exports = {
   ],
   "content": {
     "frontMatterFormat": "json"
+  },
+  "theme": {
+    "links": {
+      "en": {
+        "contact": "https://www.getshifter.io",
+        "support": "https://support.getshifter.io",
+        "home": "https://www.getshifter.io",
+      },
+    }
   }
-}
+};
